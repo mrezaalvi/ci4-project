@@ -1,0 +1,80 @@
+CRITICAL - 2022-09-23 22:26:44 --> Invalid file: welcomemessage.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcomemessage.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcomemessage', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcomemessage')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-23 22:26:46 --> Invalid file: welcomemessage.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcomemessage.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcomemessage', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcomemessage')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-23 22:27:35 --> Invalid file: welcomemessage.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcomemessage.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcomemessage', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcomemessage')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-23 22:28:08 --> Invalid file: welcomemessage.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcomemessage.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcomemessage', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcomemessage')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-23 22:28:28 --> Invalid file: welcomemessage.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcomemessage.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcomemessage', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcomemessage')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-23 22:28:34 --> Invalid file: welcomemessage.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcomemessage.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcomemessage', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcomemessage')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-23 22:28:38 --> Invalid file: welcomemessage.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('welcomemessage.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('welcomemessage', [], true)
+ 3 APPPATH\Controllers\Home.php(9): view('welcomemessage')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\Home->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
+CRITICAL - 2022-09-23 22:51:48 --> Invalid file: product/index.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('product/index.php')
+ 2 SYSTEMPATH\Common.php(1142): CodeIgniter\View\View->render('product/index', [], true)
+ 3 APPPATH\Controllers\UserController.php(11): view('product/index')
+ 4 SYSTEMPATH\CodeIgniter.php(907): App\Controllers\UserController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\UserController))
+ 6 SYSTEMPATH\CodeIgniter.php(340): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(43): require_once('FCPATH\\index.php')
